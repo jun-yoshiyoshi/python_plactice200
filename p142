@@ -1,0 +1,10 @@
+# pip操作
+pip list
+py - m pip install - -upgrade pip
+py - m pip install  ライブラリー名
+pip list - -outdated
+pip　install - -upgrade　ライブラリー名
+pip  uninstall  ライブラリー名
+pip - -help
+pip install - -help
+pip list - -help
